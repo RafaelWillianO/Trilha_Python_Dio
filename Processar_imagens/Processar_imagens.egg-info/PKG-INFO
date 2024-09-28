@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: Processar_imagens
+Version: 0.0.1
+Summary: Pacote inicial para estudo
+Home-page: my_github_repository_project_link
+Author: Rafael Willian de Oliveira
+Author-email: @@email
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: numpy==1.21.0
+Requires-Dist: scikit-image==0.18.3
+Requires-Dist: matplotlib>=3.7
+
+# package_name
+
+Description. 
+The package package_name is used to:
+	- 
+	-
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install Processar_imagens
+```
+
+## Usage
+
+```python
+from package_name.module1_name import file1_name
+file1_name.my_function()
+```
+
+## Author
+My_name
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
